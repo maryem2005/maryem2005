@@ -13,5 +13,8 @@ n8n · Flowise · Airtable · Groq · GitHub · Python · no-code automation
 ## Currently Learning
 Prompt engineering and how to build reliable AI pipelines that handle real-world edge cases.
 
+## Prompt Log 
+[My prompt log — how I directed AI tools across this capstone project](https://github.com/maryem2005/ai-capstone-quiz-generator/blob/main/component-Question-Generator-Maryem/prompt-log-maryem.md) 
+
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/maryeme/ 
