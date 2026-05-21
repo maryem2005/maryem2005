@@ -16,6 +16,7 @@ and true/false questions, and runs a fully automated grading pipeline that score
 responses and writes performance records per student
 - [View my component](https://github.com/maryem2005/ai-capstone-quiz-generator/tree/main/component-Question-Generator-Maryem)
 - [My prompt log — how I directed AI tools across this project](https://github.com/maryem2005/ai-capstone-quiz-generator/blob/main/component-Question-Generator-Maryem/prompt-log-maryem.md)
+- [Blog post — how I built it and what broke](https://github.com/maryem2005/ai-capstone-quiz-generator/blob/main/component-Question-Generator-Maryem/BLOG.md)
 
 ## What I Work With
 
